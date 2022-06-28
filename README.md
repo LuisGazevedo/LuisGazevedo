@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/LuisGazevedo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisGazevedo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisgazevedo&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGazevedo&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
 ##
